@@ -1,0 +1,12 @@
+package constants
+
+const (
+	DEFAULT_TIME_FORMAT = "020106"
+	LINE_SEPARATOR      = "\r\n"
+
+	CODE_HEADER                 = "074"
+	CODE_TRANSACTION            = "075"
+	CODE_TRANSACTION_ADDITIONAL = "076"
+	CODE_TRANSACTION_MESSAGE_1  = "078"
+	CODE_TRANSACTION_MESSAGE_2  = "079"
+)
